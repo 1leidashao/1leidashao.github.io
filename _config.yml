@@ -1,0 +1,92 @@
+# Site settings
+title: FengZhao 虎窝
+SEOTitle: 雷大少 | FengZhao Blog
+header-img: img/home-bg.jpg
+email:1790727569@qq.com
+description: "这是雷大少的博客"
+keyword: ""
+#url: "https://1leidashao.github"              # your host, for absolute URL
+baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
+
+repository: fengzhao/github.fengzhao.io
+
+# SNS settings
+RSS: false
+weibo_username:     316111718
+zhihu_username:     fengzhao
+github_username:    fengzhao
+twitter_username:   chinafengzhao
+
+# linkedin_username:  firstname-lastname-idxxxx
+
+
+
+# Build settings
+# from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
+highlighter: rouge
+permalink: pretty
+paginate: 10
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md","README.zh.md"]
+anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
+
+
+
+# Gems
+# from PR#40, to support local preview for Jekyll 3.0
+gems: [jekyll-paginate]
+
+
+
+
+# Markdown settings
+# replace redcarpet to kramdown,
+# although redcarpet can auto highlight code, the lack of header-id make the catalog impossible, so I switch to kramdown
+# document: http://jekyllrb.com/docs/configuration/#kramdown
+markdown: kramdown
+kramdown:
+input: GFM                            # use Github Flavored Markdown !important
+
+
+
+# Disqus settings
+# disqus_username: fengzhaoblog
+
+
+
+
+
+# Analytics settings
+# Baidu Analytics
+# ba_track_id: [your track id]
+
+# Google Analytics
+ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
+ga_domain:
+
+
+
+# Sidebar settings
+sidebar: true                           # whether or not using Sidebar.
+sidebar-about-description: "The quieter you become, the more you hear"
+sidebar-avatar: /img/fengzhao.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+
+
+
+# Featured Tags
+featured-tags: true                     # whether or not using Feature-Tags
+featured-condition-size: 1              # A tag will be featured if the size of it is more than this condition value
+
+
+
+# Friends
+friends:
+  [
+  {
+        title: "leidashao",
+        href: "https://user.qzone.qq.com/1790727569/infocenter"
+    },
+  {
+        title: "Dandy Weng",
+        href: "https://www.dandyweng.com/"
+    }
+]
