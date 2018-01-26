@@ -8,7 +8,7 @@ keyword: ""
 #url: "https://1leidashao.github"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
-repository: fengzhao/github.fengzhao.io
+repository: leidashao.github.io
 
 # SNS settings
 RSS: false
@@ -67,7 +67,7 @@ ga_domain:
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "The quieter you become, the more you hear"
+sidebar-about-description: "May I bear the world and do not want the world to bear me "
 sidebar-avatar: /img/dashao.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -83,7 +83,7 @@ friends:
   [
   {
         title: "leidashao",
-        href: "https://user.qzone.qq.com/1790727569/infocenter"
+        href: "https://user.qzone.qq.com/1790727569?ADUIN=2496102279&ADSESSION=1516978241&ADTAG=CLIENT.QQ.5551_FriendTip.0&ADPUBNO=26765&source=namecardhoverstar"
     },
   {
         title: "Dandy Weng",
