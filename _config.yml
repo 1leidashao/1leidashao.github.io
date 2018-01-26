@@ -13,9 +13,9 @@ repository: fengzhao/github.fengzhao.io
 # SNS settings
 RSS: false
 weibo_username:     316111718
-zhihu_username:     fengzhao
-github_username:    fengzhao
-twitter_username:   chinafengzhao
+zhihu_username:     leidashao
+github_username:    leidashao
+twitter_username:   leidashao
 
 # linkedin_username:  firstname-lastname-idxxxx
 
@@ -49,7 +49,7 @@ input: GFM                            # use Github Flavored Markdown !important
 
 
 # Disqus settings
-# disqus_username: fengzhaoblog
+# disqus_username: leidashao.github.io
 
 
 
@@ -68,7 +68,7 @@ ga_domain:
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "The quieter you become, the more you hear"
-sidebar-avatar: /img/fengzhao.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/dashao.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
