@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "测试"
-subtitle:   " "
+subtitle:   "一次测试 "
 date:       2018-1-27 16:01:00
 author:     "leidashao"
 header-img: "img/dashao.jpg"
@@ -11,6 +11,7 @@ tags:
 ---
          测试
 # 正文
+
    测试
    img:"img/daoshao1.jpg"
     
