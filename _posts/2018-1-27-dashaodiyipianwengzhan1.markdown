@@ -4,7 +4,7 @@ title:      "凛冬不至"
 subtitle:   " "
 date:       2018-1-27 16:01:00
 author:     "leidashao"
-header-img: "img/contact-bg.jpg"
+header-img: "img/post-bg-2017.jpg"
 catalog: true
 tags:
     - 凛冬不至
