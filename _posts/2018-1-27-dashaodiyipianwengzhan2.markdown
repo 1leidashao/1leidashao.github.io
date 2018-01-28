@@ -4,7 +4,7 @@ title:      "这首歌送给我爱的女孩"
 subtitle:   "白菜"
 date:       2018-1-28 11:01:00
 author:     "雷大少"
-header-img: "img/contact-bg.ipg"
+header-img: "contact-bg.ipg"
 catalog: true
 tags:
     - 送给你的歌
