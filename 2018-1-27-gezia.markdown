@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "这首歌献给未来的你"
+title:      ""
 subtitle:   "送给你"
 date:       2018-2-23 13:08:00
 author:     "雷大少"
