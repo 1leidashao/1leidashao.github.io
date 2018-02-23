@@ -2,7 +2,7 @@
 title:  大少博客
 SEOTitle: 雷大少 | leidashao.githob.io
 header-img: img/home-bg.jpg
-email: 1790727569
+email: 1790727569@qq.com
 description: "这是雷大少的博客"
 keyword: ""
 #url: "https://1leidashao.github"              # your host, for absolute URL
@@ -12,8 +12,8 @@ repository: leidashao.github.io
 
 # SNS settings
 RSS: false
-weibo_username:     1790727569
-zhihu_username:     leidashao
+weibo_username:     http://weibo.com/u/6358267615
+zhihu_username:     leidashao.io
 github_username:    leidashao
 twitter_username:   leidashao
 
