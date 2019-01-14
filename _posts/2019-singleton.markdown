@@ -4,7 +4,7 @@ title:      "狗子我爱你"
 subtitle:   ""
 date:       2019-1-14 20:08:00``
 author:     "雷大少"
-header-img: "img/gezin.jpg"
+header-img: "img/gezin.jpeg"
 catalog: true
 tags:
     - 狗子我爱你
