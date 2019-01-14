@@ -1,13 +1,11 @@
 
----
-layout:     post
-title:      "狗子我爱你"
-subtitle:   ""
-date:       2019-1-14 20:08:00``
-author:     "雷大少"
-header-img: "img/gezin.jpg"
-catalog: true
-tags:
+标题:      "狗子我爱你"
+
+发表时间:       2019-1-14 20:08:00``
+
+作者:     "雷大少"
+
+主要内容:
     - 狗子我爱你
 ---
 
