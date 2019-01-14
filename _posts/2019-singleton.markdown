@@ -19,7 +19,7 @@ tags:
 
             第一次见到你  就怦然心动
 
-img:img/1.jpeg
+img/1.jpeg
 
 第一次牵你的手   第一次吻你
 
